@@ -5,13 +5,7 @@ Star this repo
 Fork on GitHub
 7626
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
