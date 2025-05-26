@@ -1,13 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22847
-Fork on GitHub
-7626
 
-
-
-preview
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
